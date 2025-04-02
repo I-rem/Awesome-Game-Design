@@ -10,11 +10,22 @@ A curated list of valuable resources for game designers, covering theory, tools,
 - [MDA Framework - Hunicke, LeBlanc, Zubek](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
 - [Types of Fun - Richard Bartle](https://mud.co.uk/richard/hcds.htm)
 - [Quantic Foundry Gamer Motivation Model](https://quanticfoundry.com/gamer-motivation-model/)
+- [Gamer Motivation Model - PDF](https://quanticfoundry.com/wp-content/uploads/2015/12/Gamer-Motivation-Model-Overview.pdf)
+- [The Hero with a Thousand Faces - Joseph Campbell](https://www.amazon.com.tr/Hero-Thousand-Faces-Joseph-Campbell/dp/1577315936)
+- [A Rational Design POV - Noah Falstein](https://web.archive.org/web/20110515022621/http://www.theinspiracy.com/ArPOV.htm)
+- [GDC Talk: And Make It Matter](https://gdcvault.com/play/1013411/-em-And-Make-It)
+- [Types of Fun - Richard Bartle](https://mud.co.uk/richard/hcds.htm)
+
 
 ## 🏗 Level Design
 - [GDC Vault - Level Design](https://gdcvault.com/browse?keyword=level+design)
 - [GameDeveloper.com - Level Design](https://www.gamedeveloper.com/search?q=level+design)
 - [Portal Developer Commentary](https://theportalwiki.com/wiki/Portal_developer_commentary)
+- [Juice It or Lose It - GDC](https://www.gdcvault.com/play/1016487/Juice-It-or-Lose)
+- [The Art of Screenshake - Video](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+- [Boss Keys - Mark Brown](https://www.youtube.com/watch?v=yxpW2ltDNow)
+- [Game Juice - Video](https://www.youtube.com/watch?v=P4uPwhSqW8Q)
+  
 
 ## ✍️ Narrative Design & Storytelling
 - [Aristotle’s Poetics](https://classics.mit.edu/Aristotle/poetics.1.1.html)
@@ -38,12 +49,12 @@ A curated list of valuable resources for game designers, covering theory, tools,
 - [Theory of Fun - Raph Koster](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210)
 - [Paper Prototyping](https://www.gamedeveloper.com/search?q=Paper+Prototyping)
 - [GDC Vault - Math for Game Design](https://gdcvault.com/play/1018276/Math-for-Game)
+- [GDC Vault - One Page Design Docs](https://gdcvault.com/play/1012356/One-Page)
 
 ## 📜 Portfolio & Career
 - [Your Portfolio Repels Jobs](https://polycount.com/discussion/39516/your-portfolio-repels-jobs)
 - [Effective Networking in the Games Industry](https://tinysubversions.com/2005/10/effective-networking-in-the-games-industry-introduction/index.html)
 - [GDC 2007 - Kazemi](https://archive.org/details/GDC2007Kazemi)
-- [GDC Vault - One Page Design Docs](https://gdcvault.com/play/1012356/One-Page)
 
 ## 🕹 Historical & Archival Resources
 - [GameDocs - Design Documents Archive](https://gamedocs.org/)
